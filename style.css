@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: lightcyan;
+    font-size: 20px;
+}
+h1{
+    color:brown;
+    font-style: italic;
+    background-color: aquamarine;
+
+}
+ol, ul {
+    list-style-position: inside;
+    padding: 0;
+}
+#about{
+    text-decoration:underline;
+    font-size: 20px;
+}
